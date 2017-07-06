@@ -1,6 +1,6 @@
 {
   "name": "requirejs-es2015",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "RequireJS plugin to load ES2015 modules via babel.",
   "main": "es.js",
   "repository": "https://github.com/rherwig/requirejs-es2015",

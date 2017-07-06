@@ -35,7 +35,7 @@ It should look something like this:
 requirejs.config({
     // ...
     paths: {
-        es: 'node_modules/requirejs-2015/es'
+        es: 'node_modules/requirejs-es2015/es'
     },
     babel: {
         fileExtension: '.js' // extension of your ES2015 files - defaults to .js
