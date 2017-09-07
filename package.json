@@ -1,15 +1,21 @@
 {
   "name": "requirejs-es2015",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "RequireJS plugin to load ES2015 modules via babel.",
   "main": "es.js",
-  "repository": "https://github.com/rherwig/requirejs-es2015",
-  "author": "Rico Herwig",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SHOPMACHER/requirejs-es2015"
+  },
+  "author": {
+    "name": "Rico Herwig",
+    "email": "r.herwig@shopmacher.de"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rherwig/requirejs-es2015/issues"
+    "url": "https://github.com/SHOPMACHER/requirejs-es2015/issues"
   },
-  "homepage": "https://github.com/rherwig/requirejs-es2015#readme",
+  "homepage": "https://github.com/SHOPMACHER/requirejs-es2015#readme",
   "dependencies": {
     "babel-core": "~6.24.1",
     "babel-plugin-transform-es2015-modules-amd": "~6.24.1",
